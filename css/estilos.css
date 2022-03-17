@@ -1,6 +1,5 @@
 body
 {
-<<<<<<< HEAD
     background: rgb(0, 0, 0);
     color: rgb(5, 5, 5);
     text-align: center;
@@ -9,26 +8,12 @@ body
     margin: 0;
     padding: 0; 
 
-=======
-    background: #1e1f24;
-    color: #333;
-    text-align: center;
-    font-family: Arial;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
->>>>>>> footer
 }
 
 #cabecera
 {
-<<<<<<< HEAD
     background: rgba(0, 0, 160, 0.842);
     box-shadow: 0px 2px 20px 0px rgba(226, 226, 226, 0.959);
-=======
-    background: #37488b;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
->>>>>>> footer
     color: white;
     font-weight: bold;
     margin: 0;
@@ -57,17 +42,10 @@ body
 
 #container
 {
-<<<<<<< HEAD
     width: 60%;
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
-=======
-    width: 70%;
-    padding: 0;
-    text-align: left;
-    border: 1px solid #DDD;
->>>>>>> footer
     margin: 0 auto;
 }
 
@@ -75,15 +53,6 @@ body
 {
     font-size: 40px;
 }
-<<<<<<< HEAD
-
-#post
-{
-    background: rgb(247, 247, 247);
-    padding: 1em;
-}
-
-=======
 #post
 {
     background: white;
@@ -96,4 +65,3 @@ body
     text-align: center;
     padding: 0.5em;
 }
->>>>>>> footer
