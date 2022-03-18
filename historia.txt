@@ -5,3 +5,12 @@ Anita care mango
 bien
 numero 5
 Master 1
+<<<<<<< HEAD
+=======
+Experimento 1
+Experimento 2
+
+
+
+
+>>>>>>> xd
