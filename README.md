@@ -7,5 +7,6 @@ Un blog increible para el curso de Git y Github de Platzi
 *xd*
 *Crado por Sayin*
 *Otro parrafo-*
+*Tercer commit*
 
 **Este readme es solo un boceto**
