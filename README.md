@@ -5,5 +5,6 @@ Un blog increible para el curso de Git y Github de Platzi
 ## Platzi es genial
 
 *xd*
+*Crado por Sayin*
 
 **Este readme es solo un boceto**
